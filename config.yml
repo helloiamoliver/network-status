@@ -53,7 +53,9 @@ params:
   logo: /img/getsitelogo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs: []
+  customTabs:
+    - name: Oliver Hewitt
+      link: helloiamoliver.co.uk
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
