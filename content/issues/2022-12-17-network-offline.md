@@ -2,11 +2,11 @@
 section: issue
 title: Network offline
 date: 2022-12-17T17:04:20.504Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
-resolvedWhen: 2022-12-17T17:04:20.514Z
+resolvedWhen: 2022-12-17T17:26:53.476Z
 affected:
   - Network
 severity: down
