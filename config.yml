@@ -1,4 +1,4 @@
-title: Eggsample Status
+title: 2 The Folly Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -56,12 +56,12 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: /img/getsitelogo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
