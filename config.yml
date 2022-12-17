@@ -39,13 +39,10 @@ params:
   systems:
     - name: Wired Network
       category: Network
-      partial: Wired
     - name: Wireless Network
       category: Network
-      partial: Wireless
     - name: ADSL Phone Line
       category: Network
-      partial: ADSL
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
