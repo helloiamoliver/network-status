@@ -44,7 +44,7 @@ params:
     - name: ADSL Phone Line
       category: Network
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#3023D"
   enableLastMod: true
   headerTextColor: white
   logo: /img/network-status.png
