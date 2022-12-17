@@ -50,9 +50,7 @@ params:
   logo: /img/grey-background.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Oliver Hewitt
-      link: helloiamoliver.co.uk
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
