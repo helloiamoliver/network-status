@@ -43,6 +43,8 @@ params:
       category: Network
     - name: ADSL Phone Line
       category: Network
+    - name: Intranet
+      category: Applications
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#FCFF4A"
   enableLastMod: true
