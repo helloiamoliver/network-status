@@ -47,7 +47,7 @@ params:
   brand: "#3023D"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/network-status.png
+  logo: /img/grey-background.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   customTabs:
