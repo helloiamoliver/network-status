@@ -44,7 +44,7 @@ params:
     - name: ADSL Phone Line
       category: Network
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#3023D"
+  brand: "#FCFF4A"
   enableLastMod: true
   headerTextColor: white
   logo: /img/grey-background.png
