@@ -49,7 +49,7 @@ params:
   brand: "#FCFF4A"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/grey-background.png
+  logo: /img/yellow-background.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   customTabs: []
