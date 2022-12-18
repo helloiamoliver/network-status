@@ -38,10 +38,10 @@ params:
   down: "#e60000"
   systems:
     - name: Network
-      category: Network
+      category: Infrastructure
       description: Powered by UniFi
     - name: ADSL
-      category: Network
+      category: Infrastructure
       description: Broadband connection
     - name: Intranet
       category: Applications
