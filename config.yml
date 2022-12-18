@@ -37,12 +37,12 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Wired Network
+    - name: Network
       category: Network
-    - name: Wireless Network
+      description: Powered by UniFi
+    - name: ADSL
       category: Network
-    - name: ADSL Phone Line
-      category: Network
+      description: Broadband connection
     - name: Intranet
       category: Applications
   dateFormat: January 2, 2006 at 3:04 PM UTC
@@ -62,7 +62,7 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Network
+    - name: Infrastructure
     - name: Applications
     - name: Uncategorized
       untitled: true
