@@ -2,7 +2,7 @@
 section: issue
 title: Test incident
 date: 2022-12-05T22:15:03.709Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
