@@ -52,7 +52,7 @@ params:
   enableLastMod: true
   headerTextColor: white
   logo: /img/yellow-background.png
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 1
   googleAnalytics: UA-00000000-1
   customTabs: []
   alwaysKeepBrandColor: true
