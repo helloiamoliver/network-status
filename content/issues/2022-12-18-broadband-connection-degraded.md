@@ -2,9 +2,9 @@
 section: issue
 title: Intermittent connection issues
 date: 2022-12-18T13:22:24.992Z
-resolved: true
+resolved: false
 draft: false
-informational: true
+informational: false
 pin: false
 resolvedWhen: 2022-12-18T15:00:00.000Z
 affected:
