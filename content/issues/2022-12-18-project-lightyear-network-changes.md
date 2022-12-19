@@ -2,7 +2,7 @@
 section: issue
 title: "Project Lightyear: Network changes"
 date: 2022-12-18T22:41:45.583Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: true
