@@ -5,7 +5,7 @@ date: 2022-12-18T13:22:24.992Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2022-12-18T15:00:00.000Z
 affected:
   - ADSL
