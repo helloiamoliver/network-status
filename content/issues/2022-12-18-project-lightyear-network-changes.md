@@ -5,7 +5,7 @@ date: 2022-12-18T22:41:45.583Z
 resolved: false
 draft: false
 informational: true
-pin: false
+pin: true
 resolvedWhen: 2022-12-18T22:41:45.598Z
 severity: notice
 ---
