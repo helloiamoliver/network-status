@@ -11,4 +11,6 @@ affected:
   - Network
 severity: notice
 ---
-*Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+As Project Lightyear nears completion, we are looking to migrate from our previous networks.
+
+M﻿ore information will be posted here as it becomes available.
