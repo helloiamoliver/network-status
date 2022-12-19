@@ -4,7 +4,7 @@ title: "Project Lightyear: Network changes"
 date: 2022-12-18T22:41:45.583Z
 resolved: true
 draft: false
-informational: false
+informational: true
 pin: true
 resolvedWhen: 2022-12-18T22:41:45.598Z
 affected:
