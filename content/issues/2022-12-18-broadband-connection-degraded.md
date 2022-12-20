@@ -1,4 +1,5 @@
 ---
+title: Intermittent connection issues
 date: 2022-12-18 13:22:24 
 resolved: true
 resolvedWhen: 2022-12-18 15:00:00 
