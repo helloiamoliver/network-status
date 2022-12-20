@@ -1,16 +1,15 @@
 ---
 section: issue
 title: "Project Lightyear: Network changes"
-date: 2022-12-18T22:41:45.583Z
-resolved: true
+date: 2023-01-01 12:00:00 
 draft: false
-informational: false
-pin: false
-resolvedWhen: 2022-12-18T22:41:45.598Z
+informational: true
+pin: true
 affected:
   - Network
 severity: notice
 ---
-As Project Lightyear nears completion, we are looking to migrate from our previous networks.
+As Project Lightyear nears completion, we look towards the sunsetting of our existing systems.
+All legacy networks will be gradually phased out, with all devices transferred onto the new network before the old one is shutdown.
 
-M﻿ore information will be posted here as it becomes available.
+**More information will be provided on this page when it is available.**
