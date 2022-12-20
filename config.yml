@@ -47,6 +47,9 @@ params:
       category: Applications
     - name: VPN
       category: Infrastructure
+    - name: DNS
+      category: Infrastructure
+      description: Provided by NextDNS
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#FCFF4A"
   enableLastMod: true
