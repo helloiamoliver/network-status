@@ -1,21 +1,18 @@
----
-section: issue
-title: Intermittent connection issues
-date: 2022-12-18T13:22:24.992Z
+date: 2022-12-18 13:22:24 
 resolved: true
-draft: false
-informational: false
-pin: false
-resolvedWhen: 2022-12-18T15:00:00.000Z
+resolvedWhen: 2022-12-18 15:00:00 
+# Possible severity levels: down, disrupted, notice
+severity: disrupted
 affected:
   - ADSL
-severity: disrupted
+section: issue
 ---
+
 *Monitoring* - Due to the rain, we are experiencing intermittent connectivity issues over our ADSL telephone line.
 We are monitoring the situation closely, and hope that it will resolve with an improvement in weather.
 
-U﻿ntil this happens, please be aware of the following:
+Until this happens, please be aware of the following:
 
-* N﻿etwork speeds may be slower than usual.
-* T﻿he internet connection may fail entirely with no notice.
-* S﻿treaming or downloading large files may not be possible.
+- Network speeds may be slower than usual.
+- The internet connection may fail entirely with no notice.
+- Streaming or downloading large files may not be possible.
