@@ -10,6 +10,8 @@ affected:
 severity: maintenance
 ---
 As Project Lightyear nears completion, we look towards the sunsetting of our existing systems.
-All legacy networks will be gradually phased out, with all devices transferred onto the new network before the old one is shutdown.
 
-**More information will be provided on this page when it is available.**
+**All devices have been transferred to the Ultrafast Fatrat network, or to the IoT network**
+As a result, legacy systems (such as 'Superfast Fatrat', or 'SMART HOME DEVICES') were shut-down at 15:40GMT on 23 December 2022.
+
+If you are having an issue with a device on the WiFi, please contact 2 The Folly IT Support.
