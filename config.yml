@@ -2,7 +2,7 @@ title: ORH
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://status.helloiamoliver.co.uk/
+baseURL: https://status.oliverinternal.net/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
