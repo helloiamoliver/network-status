@@ -2,7 +2,7 @@
 section: issue
 title: WAP Configuration changes
 date: 2023-03-08T15:30:00.000Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
