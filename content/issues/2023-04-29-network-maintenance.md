@@ -2,7 +2,7 @@
 section: issue
 title: Network maintenance
 date: 2023-04-29T13:20:26.884Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
