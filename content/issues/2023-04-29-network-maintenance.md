@@ -6,7 +6,7 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2023-04-29T15:00:26.891Z
+resolvedWhen: 2023-04-29T14:40:26.891Z
 affected:
   - Network
   - ADSL
