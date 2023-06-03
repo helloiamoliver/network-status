@@ -40,9 +40,9 @@ params:
     - name: Network
       category: Infrastructure
       description: Powered by UniFi
-    - name: ADSL
+    - name: Fibre
       category: Infrastructure
-      description: Broadband connection
+      description: Gigaclear connection
     - name: Intranet
       category: Applications
     - name: VPN
@@ -50,6 +50,9 @@ params:
     - name: DNS
       category: Infrastructure
       description: Provided by NextDNS
+    - name: VOIP
+      category: Infrastructure
+      description: Telephone system
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#FCFF4A"
   enableLastMod: true
