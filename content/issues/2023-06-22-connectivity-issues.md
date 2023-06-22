@@ -8,6 +8,8 @@ informational: false
 pin: false
 resolvedWhen: 2023-06-22T10:55:16.110Z
 severity: down
+affected:
+  - Network
 ---
 
 *Resolved* - configuration changes were rolled out earlier today which should have resolved these issues. We will continue monitoring the network to ensure they do not occur again.
