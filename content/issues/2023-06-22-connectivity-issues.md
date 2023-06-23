@@ -9,9 +9,9 @@ affected:
   - Network
 ---
 
-*Resolved* - configuration changes were rolled out earlier today which should have resolved these issues. We will continue monitoring the network to ensure they do not occur again.
+*Resolved* - These issues have now been resolved. All devices should now be back online.
 
+*Monitoring* - configuration changes were rolled out earlier today which should have resolved these issues. We will continue monitoring the network to ensure they do not occur again.
 
-Due to an issue with our equipment, network performance is currently poor. The internet (and local devices) may become unavailable without notice.
-
-*Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+*Investigating* - Due to an issue with our equipment, network performance is currently poor. The internet (and local devices) may become unavailable without notice.
+We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
